@@ -9,6 +9,7 @@
 			"arange",
 			"bfill",
 			"dataframe",
+			"dotenv",
 			"dropna",
 			"dtype",
 			"dtypes",
@@ -16,6 +17,7 @@
 			"hstack",
 			"iloc",
 			"ndim",
+			"pymysql",
 			"randn",
 			"Reindexing"
 		]
