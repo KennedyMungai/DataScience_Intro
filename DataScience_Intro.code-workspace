@@ -7,9 +7,12 @@
 	"settings": {
 		"cSpell.words": [
 			"arange",
+			"bfill",
 			"dataframe",
+			"dropna",
 			"dtype",
 			"dtypes",
+			"fillna",
 			"hstack",
 			"iloc",
 			"ndim",
