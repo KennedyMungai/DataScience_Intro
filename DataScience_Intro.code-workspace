@@ -13,6 +13,7 @@
 			"hstack",
 			"iloc",
 			"ndim",
+			"randn",
 			"Reindexing"
 		]
 	}
