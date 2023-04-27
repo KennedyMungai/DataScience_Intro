@@ -10,6 +10,7 @@
 			"dataframe",
 			"dtype",
 			"hstack",
+			"iloc",
 			"ndim",
 			"Reindexing"
 		]
