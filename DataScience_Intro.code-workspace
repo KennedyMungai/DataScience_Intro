@@ -8,7 +8,9 @@
 		"cSpell.words": [
 			"arange",
 			"dtype",
-			"ndim"
+			"hstack",
+			"ndim",
+			"Reindexing"
 		]
 	}
 }
