@@ -9,6 +9,7 @@
 			"arange",
 			"dataframe",
 			"dtype",
+			"dtypes",
 			"hstack",
 			"iloc",
 			"ndim",
