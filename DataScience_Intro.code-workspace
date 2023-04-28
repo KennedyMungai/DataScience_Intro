@@ -8,6 +8,7 @@
 		"cSpell.words": [
 			"arange",
 			"bfill",
+			"binom",
 			"dataframe",
 			"datascience",
 			"dotenv",
@@ -15,13 +16,20 @@
 			"dtype",
 			"dtypes",
 			"fillna",
+			"frameon",
 			"hstack",
 			"iloc",
+			"linestyles",
+			"linewidth",
+			"markersize",
+			"matplotlib",
 			"ndim",
 			"pymysql",
+			"pyplot",
 			"randn",
 			"Reindexing",
-			"scipy"
+			"scipy",
+			"vlines"
 		]
 	}
 }
