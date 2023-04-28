@@ -24,6 +24,7 @@
 			"markersize",
 			"matplotlib",
 			"ndim",
+			"pearsonr",
 			"pymysql",
 			"pyplot",
 			"randn",
