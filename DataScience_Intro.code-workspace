@@ -7,6 +7,7 @@
 	"settings": {
 		"cSpell.words": [
 			"arange",
+			"axvline",
 			"bfill",
 			"binom",
 			"dataframe",
@@ -29,8 +30,12 @@
 			"pyplot",
 			"randn",
 			"Reindexing",
+			"samp",
+			"Samp",
 			"scipy",
-			"vlines"
+			"vlines",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
