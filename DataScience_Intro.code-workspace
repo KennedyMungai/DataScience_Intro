@@ -19,7 +19,8 @@
 			"ndim",
 			"pymysql",
 			"randn",
-			"Reindexing"
+			"Reindexing",
+			"scipy"
 		]
 	}
 }
