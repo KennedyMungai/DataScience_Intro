@@ -9,6 +9,7 @@
 			"arange",
 			"bfill",
 			"dataframe",
+			"datascience",
 			"dotenv",
 			"dropna",
 			"dtype",
